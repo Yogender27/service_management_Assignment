@@ -3,8 +3,7 @@
 ## Setup and Installation
 ### 1. Clone the Repository
 ```
-git clone https://github.com/your-username/your-repository-name.git
-cd your-repository-name
+git clone https://github.com/Yogender27/service_management_Assignment.git
 ```
 ### 2. Install Prerequisites
 Ensure the following are installed on your system:
